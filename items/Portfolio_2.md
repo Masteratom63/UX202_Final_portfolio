@@ -1,0 +1,10 @@
+### Project 2 - Group Maker Project 1 (GMP1)
+For GMP1 we decided to make a storage box with security, which is kept on the porch and is used to accept parcels or food deliveries </br>
+We named that project as **"Porch Private"** as it privately stores our parcels and it is kept on the porch. </br>
+Our group created this project because we saw that there were a lot of packages being stolen from the porch of many people, infact a package was stolen from our own group member's porch, so we had to create a box in which we can store our food deliveries and online ordered parcels or any parcels that are being delivered to our house. </br>
+So we created a box with a lock and two drawers that can store food deliveries or product deliveries and it can also act like a bench on which we can sit. It has insulated material on the inside which can help keep the food hot/cold and it can also help the whole box be weather proof. </br>
+We started our design process by approximately modeling our box on the delivery box of Canada post (image 1, 2 and 3). But then we discovered that those type of boxes can hold less items, even though it was a great way to receive more deliveries in a day and it would have been better for the user to sort those deliveries into divisions, but it would have been a nightmare for the delivery person to fit and sort boxes in that. </br>
+So we changed our design to fit more boxes and we reached next stage in our design work (image 4). We modified our box to only have 2 containers, one for food and other for parcels, but then we quickly realized that it would be same as our previous design, but it would just have a little more space. </br>
+So we totally changed that design to a horizontal one and we added insulation in both the boxes, so it can fit food or package in both compartments, and both the compartments would be weather proof, and also the box would act as a bench so people can even sit on it. And the final design is illustrated on image 5 and 6. </br>
+
+The images for it are displayed below, and the images go from initial starting stage to the final product: </br>

@@ -1,0 +1,9 @@
+### Project 3 - Group Maker Project 2 (GMP2)
+For GMP2 we made a lunchbox for the people with disabilities. We researched online and saw that there were no accessible lunchboxes available in the market, so we went ahead and created one. </br>
+Our group created this project because we saw that there were no actual products like this available, so we went ahead and started thinking about how to make a lunchbox accessible. We started the rapid thinking and had a bunch of ideas, but we selected a few that were good and better then the rest. </br>
+The first prototype that we sketched had almost nothing on it, and it was just a simple box with a simple sliding lid (image 1). But it couldn't have stored much and it wouldn't have been much accessible. </br> 
+So we went ahead and discussed on it more and we came up with a rolling lid solution (image 2) instead of sliding lid, and had more accessibility than the other one, because it had slide motion and roll motion combined, so you only needed to work 50% and the other 50% would be done by gravity. </br>
+And we thought more on it, we also conducted meetings on it, and we came up with a few other ideas that could be incorporated in the design and we tried to fit them all. and we sort of created the figure in the 3rd image, it had many things but it was missing a handle to carry it, and that handle was also swap-able with strap to carry it. </br>
+And we finally reached our last design stage with all the features (represented in image 4).
+And, thats how we created the accessible lunchbox.</br>
+Some illustrations of the accessible lunchbox are represented displayed below, and the images are displayed from the basic initial design stage to the final design stage: </br>
