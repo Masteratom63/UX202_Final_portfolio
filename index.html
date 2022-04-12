@@ -153,10 +153,10 @@
         </div>
         <div class="row"></div>
             <div class="column">
-            <img src="items/SDP2 SS/CODE SS/4.png" alt="image" style="width:100%">
+                <img src="items/SDP2 SS/CODE SS/4.png" alt="image" style="width:100%">
             </div>
             <div class="column">
-            <img src="items/SDP2 SS/CODE SS/5.png" alt="image" style="width:100%">
+                <img src="items/SDP2 SS/CODE SS/5.png" alt="image" style="width:100%">
             </div>
         </div>
         </br>
@@ -196,6 +196,9 @@
             });
             $.get("items/Portfolio_3.md").then((sData) => {
                 $("#portfolio3").append(marked(sData));
+            });
+            $.get("items/Portfolio_4.md").then((sData) => {
+                $("#portfolio4").append(marked(sData));
             });
             $.get("items/contact.md").then((sData) => {
                 $("#contact").append(marked(sData));
